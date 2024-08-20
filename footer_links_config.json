@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Tribal Finance",
+    "links": [{ "text": "Home", "url": "https://tribal.finance/" }]
+  },
+  {
+    "title": "Developers",
+    "links": [{ "text": "Docs", "url": "https://docs.tribal.finance/" }]
+  },
+  {
+    "title": "Community",
+    "links": [
+      { "text": "Discord", "url": "https://discord.com/invite/PtcuT9wdut" },
+      { "text": "Telegram", "url": "http://t.me/tribal_token" },
+      { "text": "Twitter", "url": "http://x.com/tribal_crypto" },
+      { "text": "Medium", "url": "https://medium.com/tribal-ecosystem" }
+    ]
+  }
+]
